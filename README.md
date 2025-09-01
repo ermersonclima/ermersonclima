@@ -25,4 +25,4 @@ Best regards to everyone!
 ## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ermersonclima&theme=transparent&bg_color=000000&border_color=FFFFFF&show_icons=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ermersonclima&layout=compact&bg_color=000000&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ermersonclima&layout=compact&bg_color=000000&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF)
